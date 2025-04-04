@@ -9,7 +9,14 @@ def multi():
 
 multi()
 
+
+def mostrar():
+    print("Esta ra,a está destomada para los cambios necesarios del frontend")
+
+mostrar()
+
 def imprime():
     print("Esta es la rama para desarrollar el Backend")
 
 imprime()
+
