@@ -8,3 +8,8 @@ def multi():
     print(a*b*c)
 
 multi()
+
+def mostrar():
+    print("Esta ra,a está destomada para los cambios necesarios del frontend")
+
+mostrar()
